@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm interested in a variety of programming topics but looking/leaning towards
+
+- ***Video Game Programming***
+
+- ***Application Development***
+
+- ***Web Development***
+
 <!--
 **steven-positive-tran/steven-positive-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
